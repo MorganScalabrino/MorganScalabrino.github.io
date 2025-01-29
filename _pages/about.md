@@ -6,7 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Je suis actuellement en Master I "Mathématiques et Intelligence Artificielle" à l'Université Paris Saclay - Orsay. Mon but est d'acquérir des compétences fondamentales et pratiques en Deep Learning, Machine learning, Apprentissage Statistique et Optimisation avant de poursuivre avec une thèse en Deep learning.
 
-Durant mes études, j'ai eu l'occasion de m'impliquer dans différentes organisations, de faire des stages et de traverser quelques chaînes de montagnes à pied. Ce serait un plaisir de parler avec vous de mes passions, des Mathématiques, d'Intelligence Artificielle ou de Biologie. N'hésitez pas à me contacter !
+Hello,
+
+I'm a Master's student in Mathematics and AI at the Orsay Campus of the Université Paris-Saclay. After a double bachelor in Mathematics and Biology, my goal is to acquire practical and fundamental knowledge in Deep Learning and Machine Learning in order to continue with a PhD in Deep Learning. 
+
+During my studies, I had the opportunity to get involved in several organizations, carry out projects and internships, and cross several mountain ranges on foot. It would be a pleasure to talk about my passions, mathematics, AI and biology. 
+Please don't hesitate to contact me!
+
+Thank you for taking the time to find out more about my background.
+
+Kind regards,
+Scalabrino Morgan
 
