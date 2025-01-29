@@ -14,7 +14,7 @@ Education
 * Master in Mathematics and AI, Paris-Saclay University, 2024-2026
 * Double Bachelor in Mathematics and Biology, Université Côte d'Aazur, 2021-2024
 
-  <ul>{% for post in site.files reversed %}
-    {% include Morgan Scalabrino CV.pdf %}
-  {% endfor %}</ul>
+
+[Full CV](../files/Morgan Scalabrino CV.pdf)
+
 
