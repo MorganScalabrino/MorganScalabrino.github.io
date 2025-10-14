@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Full CV](../files/Morgan Scalabrino CV.pdf)
 
 Experience
 ======
@@ -27,6 +28,5 @@ Education
   - Foudements of Biology (cellular and molecular biology, neuroscience, physiology, biochemistery, exology, evolution, bioinformatics)
 
 
-[Full CV](../files/Morgan Scalabrino CV.pdf)
 
 
