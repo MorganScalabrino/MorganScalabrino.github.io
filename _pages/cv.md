@@ -12,7 +12,7 @@ redirect_from:
 
 Experience
 ======
-* Internship at INRIA Grenoble with the THOTH team (https://team.inria.fr/thoth/) under the supervision of Hadrien Hendrikx (https://www.di.ens.fr/hadrien.hendrikx/) on detection and classification of insects on scanned pictures of the soil, using state of the art vision method (DINO_v2, ConvNext_v2, ViT) and custom modifications and training pipeline (hierarchical classification implementation and implementation of a self supervised Masked autoencoder pipeline)
+* Internship at INRIA Grenoble with the THOTH team (https://team.inria.fr/thoth/) under the supervision of Hadrien Hendrikx (https://www.di.ens.fr/hadrien.hendrikx/) on detection and classification of insects on scanned pictures of the soil, using state of the art vision method (DINO_v2, ConvNext_v2, ViT) and custom modifications and training pipeline : implementation of hierarchical classification and of a self supervised Masked autoencoder pipeline. (Code available at https://gitlab.com/f.postic/deepsoilfauna)
 * Internship at INRIA Sophia-Antipolis with the GreenOwl team under the supervision of Olivier Bernard on the implementation of physic informed neural networks to estimate the coefficients in an ordinary differential equation system modelling populations of microalgae and bacteria in wastewater treatment system.
 
 Education
