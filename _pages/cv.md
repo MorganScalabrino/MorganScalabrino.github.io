@@ -23,9 +23,10 @@ Education
   - M1 :
       Probability (markov chains/process), deep learning, foundements of statistics, optimisation, advanced machine learning (supervised/unsupervised), 3 datachallenges and an implementation of a deep learning article on Vision Language Tasks
    
-* Double Bachelor in Mathematics and Biology, Université Côte d'Aazur, 2021-2024
+* Double Bachelor in Mathematics and Biology, Université Côte d'Azur, 2021-2024
   - Foudements of Mathematics (analysis, linear algebra, statistics, probability)
   - Foudements of Biology (cellular and molecular biology, neuroscience, physiology, biochemistery, ecology, evolution, bioinformatics)
+  - IT  : Highly proficient in Python programming, R programming and Linux system gestion
 
 
 
