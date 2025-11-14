@@ -25,7 +25,7 @@ Education
    
 * Double Bachelor in Mathematics and Biology, Université Côte d'Aazur, 2021-2024
   - Foudements of Mathematics (analysis, linear algebra, statistics, probability)
-  - Foudements of Biology (cellular and molecular biology, neuroscience, physiology, biochemistery, exology, evolution, bioinformatics)
+  - Foudements of Biology (cellular and molecular biology, neuroscience, physiology, biochemistery, ecology, evolution, bioinformatics)
 
 
 
